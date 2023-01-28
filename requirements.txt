@@ -1,0 +1,11 @@
+opencv_python==4.5.5.64
+scipy
+scikit-image
+# torchvision==0.2.1
+# torch==1.0.1.post2
+matplotlib
+numpy
+face_alignment
+Pillow
+PyYAML
+# skimage
